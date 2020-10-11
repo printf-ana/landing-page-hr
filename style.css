@@ -1,0 +1,100 @@
+#navbar {
+    background-color: #FD7E15; 
+    color: white;
+    height: 80px;
+}
+
+#button-n1, 
+#button-n2 {
+    background-color: #336FA5; 
+    color: white; 
+    margin-right: 5px;
+    height: 50px;
+}
+
+#button-n1:hover,
+#button-n2:hover {
+    background-color: white;
+    color: #336FA5;
+}
+
+#section-1,
+#section-4 {
+    background-color: white;
+}
+
+#section-2 {
+    background-color:#336FA5;
+    color: white;
+}
+
+#section-3,
+#button-c5,
+#bc-7 {
+    background-color: #FD7E15;
+}
+
+#bc-8 {
+    background-color: #FD7E15;
+    margin-right: 20px;
+}
+
+.sec-1,
+.sec-2,
+.sec-3,
+.sec-4 {
+    padding-top: 35px;
+    padding-bottom: 50px;
+}
+
+.sec-5,
+.sec-7 {
+    text-align: right; 
+    padding-top: 15px;
+}
+
+.sec-6 {
+    padding-top: 15px; 
+    padding-left: 0;
+}
+
+.sec-1 h1 {
+    padding-top: 30px;
+}
+
+.sec-2 h1,
+.sec-2 p,
+.sec-4 h1,
+.sec-4 p {
+    text-align: right;
+}
+
+.sec-1 p,
+.sec-2 p,
+.sec-3 p,
+.sec-4 p {
+    padding-top: 15px;
+}
+
+#button1-3, #button2-3 {
+    background-color: #336FA5;
+    color: black;
+    margin-right: 20px;
+}
+
+#button1-3:hover,
+#button2-3:hover {
+    color: white;
+}
+
+.img-2,
+.img-3,
+.img-4 {
+    height: 400px; 
+    width: 580px;
+}
+
+#footer {
+   background-color:#336FA5;
+    color: WHITE;
+}
