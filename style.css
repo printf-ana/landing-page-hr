@@ -30,12 +30,17 @@
 
 #section-3,
 #button-c5,
-#bc-7 {
+#bc-7,
+#bc-8  {
     background-color: #FD7E15;
+    color: white;
+}
+
+#button-c5:hover {
+    color: black;
 }
 
 #bc-8 {
-    background-color: #FD7E15;
     margin-right: 20px;
 }
 
@@ -49,7 +54,7 @@
 
 .sec-5,
 .sec-7 {
-    text-align: right; 
+    text-align: left; 
     padding-top: 15px;
 }
 
@@ -66,7 +71,7 @@
 .sec-2 p,
 .sec-4 h1,
 .sec-4 p {
-    text-align: right;
+    text-align: left;
 }
 
 .sec-1 p,
@@ -78,13 +83,15 @@
 
 #button1-3, #button2-3 {
     background-color: #336FA5;
-    color: black;
+    color: white;
     margin-right: 20px;
 }
 
 #button1-3:hover,
-#button2-3:hover {
-    color: white;
+#button2-3:hover,
+#bc-7:hover,
+#bc-8:hover {
+    color: black;
 }
 
 .img-2,
@@ -97,4 +104,9 @@
 #footer {
    background-color:#336FA5;
     color: WHITE;
+}
+
+#home,
+#cont {
+    color: white;
 }
